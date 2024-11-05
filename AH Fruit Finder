@@ -1,0 +1,2 @@
+_G.FruitFinder= true
+loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()
